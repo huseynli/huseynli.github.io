@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://huseynli.github.io/sitemap.xml
+Sitemap: https://www.huseynli.xyz/sitemap.xml
