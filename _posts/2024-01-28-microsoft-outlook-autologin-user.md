@@ -3,7 +3,6 @@ title: Microsoft Outlook - Log AD User in Automatically on Launch
 date: 2024-01-28 22:39:00 +0200
 categories: [Microsoft Office, Outlook]
 tags: [microsoft, windows, outlook, registry, auto-login, office 2016]
-img_path: /assets/img/posts/
 ---
 
 Lets assume a situation where you want Outlook 2016 to login as the **currently logged in AD user** whenever Outlook is launched, including the first launch. Normally you would login to your email account after Outlook is installed and it should automatically login on consecutive launches. However, lets assume you are creating an environment for educational purposes where the virtual machine setup and outlook installation and deployment is scripted. You do not have the luxury of setting things up via gui and then distributing the snapshot of the environment.
