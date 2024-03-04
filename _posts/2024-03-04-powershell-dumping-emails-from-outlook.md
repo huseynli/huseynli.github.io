@@ -51,5 +51,4 @@ reg add HKEY_CURRENT_USER\Software\Policies\Microsoft\office\16.0\Outlook\Securi
 {: .prompt-note }
 
 Sources:
-* ["Allow Programmatic Access to Outlook" by nice-automation](http://help.nice-automation.com/content/topics/allowprogrammaticaccessoutlook.htm)
-
+* "Allow Programmatic Access to Outlook" by nice-automation
